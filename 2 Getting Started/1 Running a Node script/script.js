@@ -1,6 +1,6 @@
 var os = require('os');
 
-var message = 'Node.js ' + process.version +
+var message = 'YES! TIGHT! Node.js ' + process.version +
 			' on a ' + os.type() + '-based operating system.';
 
 console.log(message);
